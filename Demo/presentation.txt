@@ -1,0 +1,9 @@
+THREEJS
+
+three.js is a 3D library that simplifies the implementation of WebGL into web apps.
+
+What is WebGL?
+	It is hardware-accelerated graphics rendering in web apps.
+	What that means is that the graphics things are actually being rendered by the computer's graphics card, leaving the other things (such as physics and other code) to be handled by the computer's CPU.
+
+
